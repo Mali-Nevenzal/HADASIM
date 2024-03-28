@@ -71,7 +71,7 @@ npm install cors
 Start the server
 
 ```bash
-npm run star
+npm run start
 ```
 
 
@@ -87,11 +87,9 @@ npm Install date-fns
 ```  
 ```bash
 npm install reactjs-popup –save
-
 ```
 ```bash
 npm i react-icons
-
 ```
 ```bash
 cd client
